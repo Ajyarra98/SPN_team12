@@ -1,4 +1,4 @@
-Controlling UAV using Hand gestures:
+Hand gesture recognition
 
 libraries used till now :
 1)pickle
